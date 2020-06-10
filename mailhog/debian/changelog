@@ -1,0 +1,5 @@
+mailhog (1.0.0-mhsm0.2.0) xenial; urgency=medium
+
+  * MailHog 1.0.0 and mhsendmail 0.2.0.
+
+ -- Tiago Hillebrandt <tiago@tiagohillebrandt.com>  Wed, 10 Jun 2020 20:13:41 +0000

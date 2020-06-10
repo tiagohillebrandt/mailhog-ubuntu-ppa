@@ -1,0 +1,4 @@
+#!/bin/bash
+
+systemctl stop mailhog
+systemctl disable mailhog

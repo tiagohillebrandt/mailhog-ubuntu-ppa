@@ -1,0 +1,8 @@
+#!/bin/bash
+
+systemctl enable mailhog
+systemctl start mailhog
+
+if [[ $? -eq 0 ]]; then
+	echo "MailHog has been installed successfully: http://127.0.0.1:8025/"
+fi

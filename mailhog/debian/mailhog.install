@@ -1,0 +1,3 @@
+usr/bin/mailhog
+usr/bin/mhsendmail
+etc/systemd/system/mailhog.service /etc/systemd/system
